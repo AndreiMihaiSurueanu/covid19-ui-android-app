@@ -14,4 +14,12 @@
     <string name="preventions">Preventions</string>
     <string name="wash_hands">Wash Hands</string>
     <string name="use_masks">Use Masks</string>
+    <string name="_547">547</string>
+    <string name="from_health_center">From Health Center</string>
+    <string name="_6_43">6.43%</string>
+    <string name="from_last_week">From Last Week</string>
+    <string name="_9_43">9.43%</string>
+    <string name="recovery_rate">Recovery Rate</string>
+    <string name="_5_9">5.9%</string>
+    <string name="global_map">Global Map</string>
 </resources>
