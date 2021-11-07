@@ -10,4 +10,8 @@
     <string name="_1_062">1,062</string>
     <string name="total_death">Total Death</string>
     <string name="_75">75</string>
+    <string name="clean_disinfects">Clean Disinfects</string>
+    <string name="preventions">Preventions</string>
+    <string name="wash_hands">Wash Hands</string>
+    <string name="use_masks">Use Masks</string>
 </resources>
